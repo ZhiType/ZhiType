@@ -1,5 +1,5 @@
 <p align="center">&nbsp;</p>
-<p align="center"><a href="https://www.zhitype.top/" target="_blank"><img src="[zhitype.ico](https://scdn.zhitype.top/zhitype.top/zhiwork.png)" alt="织耕云-LOGO" width="80px"/></a></p>
+<p align="center"><a href="https://www.zhitype.top/" target="_blank"><img src="zhitype.ico" alt="织耕云-LOGO" width="80px"/></a></p>
 <p align="center"><b>织耕云(ZhiType) 旗下的开源项目&nbsp;/&nbsp;科技创新, 探索未知。</b></p>
 <p align="center">&nbsp;</p>
 
